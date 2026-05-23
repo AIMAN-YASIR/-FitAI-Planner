@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619782197174",
+    "project_id": "fitnessplanner-c89c1",
+    "storage_bucket": "fitnessplanner-c89c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619782197174:android:a9a25ccfba59971a47fb17",
+        "android_client_info": {
+          "package_name": "com.example.fitness_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEbDPMnnt4Yyi52G63RCymCzZBzW642qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
