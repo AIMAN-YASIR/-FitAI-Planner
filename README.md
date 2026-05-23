@@ -227,29 +227,4 @@ flutter pub get
 
 ---
 
-## ⚠️ Known Notes
-
-- App works **offline** — routines save locally if Firebase is unavailable
-- Auth is **optional** — app navigates directly to home by default
-- To enable auth gate, change `main.dart` home from `MainShell()` to `_AuthGate()`
-- All screens import from `constrant.dart` (typo alias) — both `constants.dart` and `constrant.dart` work
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create your branch: `git checkout -b feature/my-feature`
-3. Commit: `git commit -m 'Add my feature'`
-4. Push: `git push origin feature/my-feature`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-MIT License — feel free to use and modify.
-
----
-
 *Built with Flutter 💙 | AI powered by OpenRouter 🤖 | Backend by Firebase 🔥*
